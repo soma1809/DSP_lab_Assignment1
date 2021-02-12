@@ -1,2 +1,2 @@
-# DSP_lab_Assignment1
-Assignment 1 in DSP lab
+# DSP_lab_Assignments
+Assignment 1 and Assignment 2 in DSP lab
